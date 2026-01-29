@@ -1,146 +1,122 @@
 [
   {
     "hour": 0,
-    "predicted_load_mw": 961.16,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 57.76,
+    "load_level": "LOW"
   },
   {
     "hour": 1,
-    "predicted_load_mw": 855.46,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 38.5,
+    "load_level": "LOW"
   },
   {
     "hour": 2,
-    "predicted_load_mw": 843.52,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 38.5,
+    "load_level": "LOW"
   },
   {
     "hour": 3,
-    "predicted_load_mw": 852.66,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 38.5,
+    "load_level": "LOW"
   },
   {
     "hour": 4,
-    "predicted_load_mw": 888.72,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 57.76,
+    "load_level": "LOW"
   },
   {
     "hour": 5,
-    "predicted_load_mw": 1042.49,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 77.01,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 6,
-    "predicted_load_mw": 1350.62,
-    "load_level": "MEDIUM",
-    "recommended_for_charging": false
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 7,
-    "predicted_load_mw": 1632.11,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 134.76,
+    "load_level": "HIGH"
   },
   {
     "hour": 8,
-    "predicted_load_mw": 1787.18,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 154.02,
+    "load_level": "HIGH"
   },
   {
     "hour": 9,
-    "predicted_load_mw": 1788.85,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 134.76,
+    "load_level": "HIGH"
   },
   {
     "hour": 10,
-    "predicted_load_mw": 1620.88,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 11,
-    "predicted_load_mw": 1219.38,
-    "load_level": "MEDIUM",
-    "recommended_for_charging": false
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 12,
-    "predicted_load_mw": 954.88,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 134.76,
+    "load_level": "HIGH"
   },
   {
     "hour": 13,
-    "predicted_load_mw": 901.07,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 134.76,
+    "load_level": "HIGH"
   },
   {
     "hour": 14,
-    "predicted_load_mw": 948.53,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 15,
-    "predicted_load_mw": 1020.61,
-    "load_level": "LOW",
-    "recommended_for_charging": true
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 16,
-    "predicted_load_mw": 1146.45,
-    "load_level": "MEDIUM",
-    "recommended_for_charging": false
+    "predicted_load": 134.76,
+    "load_level": "HIGH"
   },
   {
     "hour": 17,
-    "predicted_load_mw": 1356.12,
-    "load_level": "MEDIUM",
-    "recommended_for_charging": false
+    "predicted_load": 154.02,
+    "load_level": "HIGH"
   },
   {
     "hour": 18,
-    "predicted_load_mw": 1653.06,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 173.27,
+    "load_level": "HIGH"
   },
   {
     "hour": 19,
-    "predicted_load_mw": 1861.56,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 192.52,
+    "load_level": "HIGH"
   },
   {
     "hour": 20,
-    "predicted_load_mw": 1945.84,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 154.02,
+    "load_level": "HIGH"
   },
   {
     "hour": 21,
-    "predicted_load_mw": 1901.43,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 115.51,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 22,
-    "predicted_load_mw": 1719.07,
-    "load_level": "HIGH",
-    "recommended_for_charging": false
+    "predicted_load": 77.01,
+    "load_level": "MEDIUM"
   },
   {
     "hour": 23,
-    "predicted_load_mw": 1256.67,
-    "load_level": "MEDIUM",
-    "recommended_for_charging": false
+    "predicted_load": 57.76,
+    "load_level": "LOW"
   }
 ]
